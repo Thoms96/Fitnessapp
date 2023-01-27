@@ -1,0 +1,1 @@
+java -jar fitnessapp_thomas.jar
